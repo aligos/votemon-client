@@ -5,3 +5,4 @@ votemon-client for tuts codepolitan.com
 * yarn install
 * yarn start
 
+live demo [http://aligos.js.org/votemonapp/]('http://aligos.js.org/votemonapp/')
